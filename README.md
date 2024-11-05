@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hey! I'm Anish. Currently I'm:
+- ⚽ Diving into football analytics using deep learning
+- 🎓 Pursuing a Master's in Informatics at TUM
+- 🏢 Decoding the AI Act at appliedAI
+
+Reach out to me at anish.pathak5[at]gmail.com
